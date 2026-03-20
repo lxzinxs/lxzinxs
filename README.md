@@ -35,7 +35,7 @@ Valorizo o crescimento contínuo e a colaboração em equipe:
 
 ### 📫 Contato e Redes
 [!["Gmail"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasnerym@gmail.com)
-[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nery-9b854385)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-nery-9b854385](https://www.linkedin.com/in/lucas-nery-96b854385/))
 [!["Instagram"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_neryx_)
 
 ---
