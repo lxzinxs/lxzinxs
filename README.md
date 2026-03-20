@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="NOME_DA_IMAGEM.jpg" alt="Banner Lucas Nery" width="100%">
+  <img src="eu.jpg" alt="Banner Lucas Nery" width="100%">
 </div>
 
 # Olá, eu sou o Lucas Nery Miranda! 👋
