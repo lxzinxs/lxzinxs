@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_5627cv5627cv5627.png" alt="Banner Lucas Nery" width="100%">
+  <img src="Gemini_Generated_Image_5627cv5627cv5627.png" alt="Banner Lucas Nery" width="70%">
 </div>
 
 # Olá, eu sou o Lucas Nery Miranda! 👋
