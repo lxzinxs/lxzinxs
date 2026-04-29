@@ -15,7 +15,7 @@ Sou um entusiasta de tecnologia em busca da minha primeira oportunidade no merca
 
 ### 💻 Habilidades Técnicas
 Focado em construir uma base sólida em lógica e desenvolvimento Web/Back-end:
-* **Linguagens:** Java (Iniciante) e JavaScript (Iniciante).
+* **Linguagens:** Java, C# e JavaScript.
 * **Web:** HTML5 e CSS3 (Iniciante).
 * **Lógica:** Sólidos conhecimentos em Lógica de Programação.
 
