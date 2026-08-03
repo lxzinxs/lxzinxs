@@ -29,7 +29,9 @@ Valorizo o crescimento contínuo e a colaboração em equipe:
 
 ### 📂 Projetos em Destaque no GitHub
 * **[Calculadora AFSE](https://github.com/lxzinxs/calculadora-afs-endless-completa):** Otimização de status para o jogo Anime Fighting Simulator Endless.
-* **[Exercícios de Programação](https://github.com/lxzinxs/algprog-lista-02-java):** Repositórios acadêmicos focados em Java e Portugol.
+* **[Cadastro de clientes](https://github.com/lxzinxs/Cadastro-de-Clientes):** Cadastro de clientes com o terminal
+* **[To Do List](https://github.com/lxzinxs/To-do-List-em-java):** lista de tarefas com o terminal
+* **[RPG de Texto em java - solo](https://github.com/lxzinxs/RPG-de-texto-java-solo):** Rpg de Texto pelo terminal
 
 ---
 
