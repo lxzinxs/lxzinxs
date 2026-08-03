@@ -16,7 +16,8 @@ Sou um entusiasta de tecnologia em busca da minha primeira oportunidade no merca
 ### 💻 Habilidades Técnicas
 Focado em construir uma base sólida em lógica e desenvolvimento Web/Back-end:
 * **Linguagens:** Java, C# e JavaScript.
-* **Lógica:** Sólidos conhecimentos em Lógica de Programação.
+* **Lógica:** Sólidos conhecimentos em Lógica de programação, Estrutura de Dados, Orientação a Objetos
+(Abstração, Encapsulamento, Herança e Polimorfismo)
 
 ### 🚀 Soft Skills
 Valorizo o crescimento contínuo e a colaboração em equipe:
